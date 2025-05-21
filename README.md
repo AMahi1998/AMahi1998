@@ -40,7 +40,7 @@ I’m a results-driven Java Full Stack Developer with 4+ years of experience bui
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| | [**Quiz App Microservices**](https://github.com/AMahi1998/quizApplication-microservices) | Spring Boot, Microservices, PostgreSQL | Modular backend quiz system with gateway, registry, and DB. |
+|  [**Quiz App Microservices**](https://github.com/AMahi1998/quizApplication-microservices) | Spring Boot, Microservices, PostgreSQL | Modular backend quiz system with gateway, registry, and DB. |
 | [**Piggy Metrics**](https://github.com/AMahi1998/piggymetrics) | Java, Spring Boot, Docker | Microservice architecture for personal finance. Forked and enhanced from [sqshq/piggymetrics](https://github.com/sqshq/piggymetrics). |
 | [**E-CART**](https://github.com/AMahi1998/E-CART) | MERN Stack | Full-stack e-commerce app with cart, auth, and dynamic catalog features. |
 | [**Hotel Management**](https://github.com/AMahi1998/hotel-management) | Java | Hotel room and booking manager using Spring MVC and JDBC. |
