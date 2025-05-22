@@ -40,6 +40,7 @@ I’m a results-driven Java Full Stack Developer with 4+ years of experience bui
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
+| [**Spring AI LLM Integrations**](https://github.com/AMahi1998/spring-ai-llm-integrations) | Spring Boot, Spring AI, OpenAI, Anthropic, Ollama | Microservices-based backend app using Spring AI to integrate with LLMs like OpenAI GPT, Anthropic Claude, and Ollama for AI-powered applications. |
 |  [**Quiz App Microservices**](https://github.com/AMahi1998/quizApplication-microservices) | Spring Boot, Microservices, PostgreSQL | Modular backend quiz system with gateway, registry, and DB. |
 | [**Piggy Metrics**](https://github.com/AMahi1998/piggymetrics) | Java, Spring Boot, Docker | Microservice architecture for personal finance. Forked and enhanced from [sqshq/piggymetrics](https://github.com/sqshq/piggymetrics). |
 | [**E-CART**](https://github.com/AMahi1998/E-CART) | MERN Stack | Full-stack e-commerce app with cart, auth, and dynamic catalog features. |
@@ -51,8 +52,9 @@ I’m a results-driven Java Full Stack Developer with 4+ years of experience bui
 
 ### 📈 GitHub Stats
 
-![Mahima's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMahi1998&show_icons=true&theme=gruvbox)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMahi1998&layout=compact&theme=gruvbox)
+![Mahima's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMahi1998&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMahi1998&hide=jupyter%20notebook&langs_count=6&layout=compact&theme=gruvbox)
+
 
 ---
 
@@ -61,7 +63,7 @@ I’m a results-driven Java Full Stack Developer with 4+ years of experience bui
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mahima-a-mudhan/)  
 - 📧 mahimaaravamudhan111@gmail.com  
 - 💬 Pronouns: `she/her`  
-- 🎯 Fun Fact: I published a paper on *Gesture-Controlled Quadcopter*!
+- 🎯 Fun Fact: I published a paper on *Gesture-Controlled Quadcopter* in the Journal of Huazhong University of Science and Technology!
 
 ---
 
