@@ -60,8 +60,6 @@ I’m a results-driven Java Full Stack Developer with 4+ years of experience bui
 
 ### 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mahima-a-mudhan/)  
-- 📧 mahimaaravamudhan111@gmail.com  
 - 💬 Pronouns: `she/her`  
 - 🎯 Fun Fact: I published a paper on *Gesture-Controlled Quadcopter* in the Journal of Huazhong University of Science and Technology!
 
