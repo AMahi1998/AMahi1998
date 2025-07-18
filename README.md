@@ -12,10 +12,9 @@
 
 ### 🌟 About Me
 
-I’m a results-driven Java Full Stack Developer with 4+ years of experience building and deploying scalable, cloud-native web apps. I specialize in backend development using Java, Spring Boot, and REST APIs, and craft responsive frontend interfaces using React.js. I’m passionate about microservices, cloud computing (AWS), and clean architecture — delivering quality code that powers real-world systems used by thousands.
+I’m a results-driven Java Full Stack Developer with experience building and deploying scalable, cloud-native web apps. I specialize in backend development using Java, Spring Boot, and REST APIs, and craft responsive frontend interfaces using React.js. I’m passionate about microservices, cloud computing (AWS), and clean architecture — delivering quality code that powers real-world systems used by thousands.
 
 - 🌐 **Portfolio:** [Visit My GitHub](https://github.com/AMahi1998)
-- 💼 **Currently Working at:** Discover Financial Services
 - 🎓 **M.S. in CS (AI),** University of South Dakota
 - 🏷️ **Certifications:**
   - ![AWS](https://img.shields.io/badge/AWS-Developer_Associate-yellow?logo=amazonaws) [AWS Certified Developer – Associate](https://www.credly.com/badges/501b6d45-d36f-4ff2-824f-c5ea631fbc7e/public_url)
