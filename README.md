@@ -21,26 +21,6 @@ I focus on **clean architecture, performance, automation**, and building real-wo
 
 
 
-## 🚀 Featured Projects
-
-### **Spring AI – Multi-LLM Integrations**  
-Microservices integrating OpenAI, Anthropic & Ollama using Spring AI.  
-🔗 https://github.com/AMahi1998/spring-ai-llm-integrations  
-
-### **Quiz App – Microservices**  
-Spring Boot microservices with gateway, registry & PostgreSQL.  
-🔗 https://github.com/AMahi1998/quizApplication-microservices  
-
-### **E-CART (MERN Stack)**  
-Full-stack ecommerce platform with authentication, cart & product flows.  
-🔗 https://github.com/AMahi1998/E-CART  
-
-### **Kanban Board – Docker Compose**  
-Spring Boot + Angular + PostgreSQL + Docker Compose.  
-🔗 https://github.com/AMahi1998/kanban-board-compose  
-
-
-
 ## 📊 GitHub Insights
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AMahi1998&color=blue)
