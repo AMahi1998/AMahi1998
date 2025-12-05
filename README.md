@@ -1,74 +1,65 @@
-# Mahima Aravamudhan  
-### Java Full Stack Developer | Microservices | Cloud | React | AWS
+# 👩‍💻 Mahima Aravamudhan  
+### **Java Full Stack Developer | Microservices | Cloud | React | AI Integrations | AWS Certified**
 
-I am a Full Stack Developer specializing in **Java, Spring Boot, React, and AWS**, with experience building scalable backend services and clean, production-ready full-stack applications. I enjoy designing modular microservices, improving system performance, and writing clean, maintainable code.
+I’m a **Java Full Stack Developer with experience** building scalable backend systems, cloud-native microservices, and clean, responsive front-end applications.  
+I work extensively with **Java, Spring Boot, React, and AWS**, and recently expanded into **AI-powered applications** using Spring AI and LLM integrations.
 
+I focus on **clean architecture, performance, automation**, and building real-world applications that scale reliably.
 
 
 
 ## 💻 Technical Skills
 
-### **Backend & Microservices**
-Java · Spring Boot · Spring Cloud · REST APIs · Hibernate/JPA  
-Microservices · Kafka (basics)
-
-### **Frontend**
-React.js · JavaScript (ES6+) · TypeScript · HTML5 · CSS3
-
-### **Cloud & DevOps**
-AWS (Lambda, EC2, RDS, S3) · Docker · Jenkins · GitHub Actions  
-CI/CD Pipelines · API Gateway
-
-### **Databases**
-PostgreSQL · MySQL · MongoDB
-
-### **Tools & Testing**
-JUnit · Mockito · Postman · Git · Maven · IntelliJ IDEA
-
+| **Category** | **Technologies** | **Expertise / Focus** |
+|--------------|------------------|------------------------|
+| **Backend Engineering** | Java · Spring Boot · Spring Cloud · Hibernate/JPA · REST APIs | Microservices, API Design, Performance Optimization |
+| **Frontend Development** | React.js · JavaScript (ES6+) · TypeScript · HTML5 · CSS3 | SPA Development, Component Architecture, State Management |
+| **Cloud & DevOps** | AWS (EC2, Lambda, RDS, S3) · Docker · Jenkins · GitHub Actions · CI/CD | Cloud Deployments, Automation, Infrastructure Hardening |
+| **AI & Modern Development** | Spring AI · OpenAI/LLM APIs · LangChain (basics) | AI Integrations, LLM-based Microservices, Prompt Engineering |
+| **Databases** | PostgreSQL · MySQL · MongoDB | Query Optimization, Data Modeling, Transaction Handling |
+| **Testing & Tools** | JUnit · Mockito · Postman · Maven · Git · IntelliJ IDEA | Unit Testing, API Testing, Build Automation |
 
 
 
 ## 🚀 Featured Projects
 
-**Spring AI LLM Integrations**  
-Microservices integrating OpenAI, Anthropic, and Ollama using Spring AI.  
+### **Spring AI – Multi-LLM Integrations**  
+Microservices integrating OpenAI, Anthropic & Ollama using Spring AI.  
 🔗 https://github.com/AMahi1998/spring-ai-llm-integrations  
 
-**Quiz App – Microservices**  
-Spring Boot microservices with gateway, discovery & PostgreSQL.  
+### **Quiz App – Microservices**  
+Spring Boot microservices with gateway, registry & PostgreSQL.  
 🔗 https://github.com/AMahi1998/quizApplication-microservices  
 
-**E-CART (MERN Stack)**  
+### **E-CART (MERN Stack)**  
 Full-stack ecommerce platform with authentication, cart & product flows.  
 🔗 https://github.com/AMahi1998/E-CART  
 
-**Kanban Board (Compose)**  
-Spring Boot + Angular task board with PostgreSQL & Docker Compose.  
+### **Kanban Board – Docker Compose**  
+Spring Boot + Angular + PostgreSQL + Docker Compose.  
 🔗 https://github.com/AMahi1998/kanban-board-compose  
 
 
 
+## 📊 GitHub Insights
 
-## 📊 GitHub Stats
-
-<p align="left">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=AMahi1998&show_icons=true&theme=gruvbox"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMahi1998&layout=compact&theme=gruvbox"/>
-</p>
-
+![Profile Views](https://komarev.com/ghpvc/?username=AMahi1998&color=blue)
+![Followers](https://img.shields.io/github/followers/AMahi1998?style=social)
+![Stars](https://img.shields.io/github/stars/AMahi1998?affiliations=OWNER%2CCOLLABORATOR)
 
 
 
 ## 📈 Summary
 
-- M.S. in Computer Science (AI), University of South Dakota  
+- Strong experience in **distributed systems & cloud-native microservices**  
 - AWS Developer Associate Certified  
-- Strong foundation in distributed systems & cloud-native development  
-- Passionate about scalable design, automation, and clean engineering
+- Passionate about **AI integrations, automation, and scalable system design**  
+- M.S. in Computer Science (AI), University of South Dakota  
+
 
 
 ## 📫 Connect
 
 GitHub: **@AMahi1998**  
-Fun Fact: Research author on **Gesture-Controlled Quadcopters**.
+Fun Fact: Research author on **Gesture-Controlled Quadcopters**
 
